@@ -1,10 +1,10 @@
 import About from "./components/About";
 import Contact from "./components/Contact";
-import Experience from "./components/Experience";
 import Home from "./components/Home";
 import NavBar from "./components/NavBar";
 import Portfolio from "./components/Portfolio";
 import Social from "./components/Social";
+import Skills from "./components/Skills";
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
       <Home></Home>
       <About></About>
       <Portfolio></Portfolio>
-      <Experience></Experience>
+      <Skills></Skills>
        <Contact></Contact>
 
       <Social></Social>
