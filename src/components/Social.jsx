@@ -49,9 +49,8 @@ const Social = () => {
           target='_blank'
           rel='noreferrer'
           >
-            {child}
+          {child}
           </a>
-          
         </li>
         ))}
 
